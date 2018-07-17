@@ -15,7 +15,10 @@ Window: Reload
 ```
 
 ### Usage
-1) Right click context menu.
-2) Select `Insert Images (Hexo)`
-3) Select image.
-4) Done
+1. Right click context menu.
+2. Select `Insert Images (Hexo)`
+3. Select image.
+4. Done
+
+### Version
+1.0.0 Base function implementation.
