@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Insert Images (Hexo)",
+        "command": "hexo-insert-image:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hexo-insert-image",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "hexo-insert-image:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
